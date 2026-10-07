@@ -1,0 +1,15 @@
+### Hi, I'm Kenny 👋
+
+I'm learning decompilation and reverse engineering from the ground up: how compiled games and programs work, and how to turn them back into readable source. I document everything as I go.
+
+I'm focusing on GBA games, because the variety of design across so many developers gives me a smorgasbord to learn from.
+
+**What I'm working on**
+- [decomp-library](https://github.com/masterred92/decomp-library): my learning library on decompilation tools, techniques, game projects and study paths
+- [gba-decomp-toolkit](https://github.com/masterred92/gba-decomp-toolkit): a bring-your-own-ROM toolkit for setting up matching GBA decomp projects
+- [decomp-toolkit-scripts](https://github.com/masterred92/decomp-toolkit-scripts): setup and helper scripts for a decomp workstation
+- [decomp-practice](https://github.com/masterred92/decomp-practice): original C exercises for practising matching on x86, MIPS and PowerPC
+
+**Currently exploring:** GBA decomps (Golden Sun, Zelda), compilers, ARM assembly, and AI-assisted decompilation.
+
+All projects use original code and documentation only. No ROMs or copyrighted game code.
