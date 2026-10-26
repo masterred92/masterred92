@@ -10,6 +10,12 @@ I'm focusing on GBA games, because the variety of design across so many develope
 - [decomp-toolkit-scripts](https://github.com/masterred92/decomp-toolkit-scripts): setup and helper scripts for a decomp workstation
 - [decomp-practice](https://github.com/masterred92/decomp-practice): original C exercises for practising matching on x86, MIPS and PowerPC
 
-**Currently exploring:** GBA decomps (Golden Sun, Zelda), compilers, ARM assembly, and AI-assisted decompilation.
+**World of Warcraft: Forever addons** (free on [CurseForge](https://www.curseforge.com/members/masterred92/projects) and Wago)
+- [NeutralFlip](https://github.com/masterred92/NeutralFlip): finds buy-low, sell-high gaps between your faction auction house and the neutral one ([Wago](https://addons.wago.io/addons/neutralflip))
+- [PriceLog](https://github.com/masterred92/PriceLog): keeps a history of auction prices as you search ([Wago](https://addons.wago.io/addons/pricelog))
+- [MatTooltip](https://github.com/masterred92/MatTooltip): tells you on the tooltip whether to sell, hold or vendor your materials ([Wago](https://addons.wago.io/addons/mattooltip))
+- [GoldPerSpot](https://github.com/masterred92/GoldPerSpot): tracks how much gold per hour each farming spot really makes ([Wago](https://addons.wago.io/addons/goldperspot))
+
+**Currently exploring:** GBA decomps (Golden Sun, Zelda), compilers, ARM assembly, AI-assisted decompilation, and game addons and mods.
 
 All projects use original code and documentation only. No ROMs or copyrighted game code.
