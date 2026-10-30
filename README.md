@@ -15,7 +15,7 @@ I'm focusing on GBA games, because the variety of design across so many develope
 - [PriceLog](https://github.com/masterred92/PriceLog): keeps a history of auction prices as you search ([Wago](https://addons.wago.io/addons/pricelog))
 - [MatTooltip](https://github.com/masterred92/MatTooltip): tells you on the tooltip whether to sell, hold or vendor your materials ([Wago](https://addons.wago.io/addons/mattooltip))
 - [GoldPerSpot](https://github.com/masterred92/GoldPerSpot): tracks how much gold per hour each farming spot really makes ([Wago](https://addons.wago.io/addons/goldperspot))
-- [Recipe Master](https://github.com/masterred92/RecipeMaster): pick a material and see everything it crafts into, with auction prices, profit and crafting chains, like Terraria's Guide (coming to Wago at launch, Nov 4)
+- [What Can I Make?](https://github.com/masterred92/WhatCanIMake): pick a material and see everything it crafts into, with auction prices, profit and crafting chains, like Terraria's Guide (coming to Wago at launch, Nov 4)
 
 *Plugins for the big raid and questing addons (coming to Wago at launch, Nov 4):*
 - [BRBoss](https://github.com/masterred92/BRBoss): `/brb 5` starts a DBM or BigWigs break bar and ends it with a vanilla boss line
