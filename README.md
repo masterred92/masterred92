@@ -9,8 +9,14 @@ I'm a gamer who builds free tools I'd want to use myself, and I'm learning decom
 - [MatTooltip](https://github.com/masterred92/MatTooltip): tells you on the tooltip whether to sell, hold or vendor your materials ([Wago](https://addons.wago.io/addons/mattooltip))
 - [GoldPerSpot](https://github.com/masterred92/GoldPerSpot): tracks how much gold per hour each farming spot really makes ([Wago](https://addons.wago.io/addons/goldperspot))
 
+*Class trackers* (live proc counts, then each proc's damage, share and average after the fight):
+- [Gale Count](https://github.com/masterred92/GaleCount): Windfury procs for Shamans
+- [Shadow Count](https://github.com/masterred92/ShadowCount): Nightfall and Shadow Trance for Warlocks, with instant Shadow Bolt counts
+- [Reckoning Checkoning](https://github.com/masterred92/ReckoningCheckoning): Reckoning charges and Seal of Command procs for Paladins
+- [Beast Mode](https://github.com/masterred92/BeastMode): a pet and Hawk box for Hunters, with the you, pet and Hawk damage split
+
 *Plugins for the big raid and questing addons:*
-- [BRBoss](https://github.com/masterred92/BRBoss): `/brb 5` starts a DBM or BigWigs break bar and ends it with a vanilla boss line
+- [BRBoss](https://github.com/masterred92/BRBoss): `/brboss 5` starts a DBM or BigWigs break bar and ends it with a vanilla boss line
 - [WipeAndWin](https://github.com/masterred92/WipeAndWin): vanilla boss lines as DBM and BigWigs victory and wipe sounds
 - [FloorIsLava](https://github.com/masterred92/FloorIsLava): a Details! board of who took the most avoidable damage
 - [QuestieJobsDone](https://github.com/masterred92/QuestieJobsDone): the peon's "Job's done!" when a Questie quest is finished
