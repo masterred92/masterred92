@@ -1,45 +1,66 @@
-### Hi, I'm Kenny 👋
+# Kenny
 
-I'm a gamer who builds free tools I'd want to use myself, and I'm learning decompilation and reverse engineering along the way. Everything here is original code and documentation, with no ROMs, game files or copyrighted code.
+World of Warcraft: Forever addon developer. I also publish open-source tooling and GBA decompilation study guides.
 
-**World of Warcraft: Forever addons** (free on [Wago](https://addons.wago.io) and [CurseForge](https://www.curseforge.com/members/masterred92/projects))
-- [Dwarf Explorer's Bible](https://github.com/masterred92/DwarfExplorersBible) 1.2.1: pick a material and see everything it crafts into, with a new window, auction prices, profit, crafting chains and shareable drop rates learned from kills, using 71139 game data, like Terraria's Guide ([Wago](https://addons.wago.io/addons/dwarfexplorersbible), [CurseForge](https://www.curseforge.com/wow/addons/dwarf-explorers-bible))
-- [NeutralFlip](https://github.com/masterred92/NeutralFlip) 0.3.3: finds buy-low, sell-high gaps between your faction auction house and the neutral one ([Wago](https://addons.wago.io/addons/neutralflip), [CurseForge](https://www.curseforge.com/wow/addons/neutralflip))
-- [PriceLog](https://github.com/masterred92/PriceLog) 0.3.2: keeps a history of auction prices as you search ([Wago](https://addons.wago.io/addons/pricelog), [CurseForge](https://www.curseforge.com/wow/addons/pricelog))
-- [MatTooltip](https://github.com/masterred92/MatTooltip) 0.4.3: tells you on the tooltip whether to sell, hold or vendor your materials ([Wago](https://addons.wago.io/addons/mattooltip), [CurseForge](https://www.curseforge.com/wow/addons/mattooltip))
-- [GoldPerSpot](https://github.com/masterred92/GoldPerSpot) 0.3.4: tracks how much gold per hour each farming spot really makes ([Wago](https://addons.wago.io/addons/goldperspot), [CurseForge](https://www.curseforge.com/wow/addons/goldperspot))
-- [Frost Mage Suite](https://github.com/masterred92/FrostMageSuite) 1.0.0: all seven Frost Mage helpers in one addon, with a simple `/frost` panel to switch each box on or off; each box pauses itself while its standalone is loaded ([Wago](https://addons.wago.io/addons/frost-mage-suite), [CurseForge](https://www.curseforge.com/wow/addons/frost-mage-suite))
+Addons are free on [Wago Addons](https://addons.wago.io) and [CurseForge](https://www.curseforge.com/members/masterred92/projects).
 
-*Frost Mage suite standalones* (v1.0.1, they work together through the shared `/frost` command):
-- [Hold the Weather](https://github.com/masterred92/HoldTheWeather): warns you when you're channelling Blizzard into your own Frost Nova ([Wago](https://addons.wago.io/addons/hold-the-weather), [CurseForge](https://www.curseforge.com/wow/addons/hold-the-weather))
-- [Barrier Reef](https://github.com/masterred92/BarrierReef): shows whether Ice Barrier's +15% Frost damage minute and the extra +5% while the shield holds are up ([Wago](https://addons.wago.io/addons/barrier-reef), [CurseForge](https://www.curseforge.com/wow/addons/barrier-reef))
-- [Eight Second Argument](https://github.com/masterred92/EightSecondArgument): says whether to press Ice Lance or Fire Blast on their shared 8-second cooldown ([Wago](https://addons.wago.io/addons/eight-second-argument), [CurseForge](https://www.curseforge.com/wow/addons/eight-second-argument))
-- [Cone of Plenty](https://github.com/masterred92/ConeOfPlenty): tracks Winter's Chill stacks so you know when to dump Cone of Cold ([Wago](https://addons.wago.io/addons/cone-of-plenty), [CurseForge](https://www.curseforge.com/wow/addons/cone-of-plenty))
-- [Shatter Happens](https://github.com/masterred92/ShatterHappens): a Fingers of Frost and Ice Lance ledger for each fight and session ([Wago](https://addons.wago.io/addons/shatter-happens), [CurseForge](https://www.curseforge.com/wow/addons/shatter-happens))
-- [Water Bill](https://github.com/masterred92/WaterBill): tells you whether your conjured water and food should go on the auction house or be used ([Wago](https://addons.wago.io/addons/water-bill), [CurseForge](https://www.curseforge.com/wow/addons/water-bill))
-- [Scroll Call](https://github.com/masterred92/ScrollCall): a gold log for Comprehension, counting unread scrolls and what each read turned into ([Wago](https://addons.wago.io/addons/scroll-call), [CurseForge](https://www.curseforge.com/wow/addons/scroll-call))
+## WoW: Forever — Economy & Crafting
 
-*Class trackers* (live proc counts, then each proc's damage, share and average after the fight):
-- [Gale Count](https://github.com/masterred92/GaleCount) 1.0.2: Windfury procs for Shamans ([Wago](https://addons.wago.io/addons/galecount), [CurseForge](https://www.curseforge.com/wow/addons/gale-count))
-- [Shadow Count](https://github.com/masterred92/ShadowCount) 1.0.1: Nightfall and Shadow Trance for Warlocks, with instant Shadow Bolt counts ([Wago](https://addons.wago.io/addons/shadowcount), [CurseForge](https://www.curseforge.com/wow/addons/shadow-count))
-- [Reckoning Checkoning](https://github.com/masterred92/ReckoningCheckoning) 1.0.1: Reckoning charges and Seal of Command procs for Paladins ([Wago](https://addons.wago.io/addons/reckoningcheckoning), [CurseForge](https://www.curseforge.com/wow/addons/reckoning-checkoning))
-- [Beast Mode](https://github.com/masterred92/BeastMode) 1.0.0: a pet and Hawk box for Hunters, with the you, pet and Hawk damage split ([Wago](https://addons.wago.io/addons/beastmode), [CurseForge](https://www.curseforge.com/wow/addons/beast-mode))
+| Addon | Description | Links |
+| --- | --- | --- |
+| [Dwarf Explorer's Bible](https://github.com/masterred92/DwarfExplorersBible) | Pick a material and see everything it crafts into, with auction prices, profit, and crafting chains. | [CurseForge](https://www.curseforge.com/wow/addons/dwarf-explorers-bible) · [Wago](https://addons.wago.io/addons/dwarfexplorersbible) |
+| [NeutralFlip](https://github.com/masterred92/NeutralFlip) | Finds buy-low, sell-high gaps between your faction auction house and the neutral one. | [CurseForge](https://www.curseforge.com/wow/addons/neutralflip) · [Wago](https://addons.wago.io/addons/neutralflip) |
+| [Price Log](https://github.com/masterred92/PriceLog) | Keeps a history of auction prices as you search. | [CurseForge](https://www.curseforge.com/wow/addons/pricelog) · [Wago](https://addons.wago.io/addons/pricelog) |
+| [Mat Tooltip](https://github.com/masterred92/MatTooltip) | Tells you on the tooltip whether to sell, hold, or vendor your materials. | [CurseForge](https://www.curseforge.com/wow/addons/mattooltip) · [Wago](https://addons.wago.io/addons/mattooltip) |
+| [GoldPerSpot](https://github.com/masterred92/GoldPerSpot) | Tracks how much gold per hour each farming spot really makes. | [CurseForge](https://www.curseforge.com/wow/addons/goldperspot) · [Wago](https://addons.wago.io/addons/goldperspot) |
 
-*Plugins for the big raid addons:*
-- [BRBoss](https://github.com/masterred92/BRBoss) 1.1.1: `/brboss 5` starts a DBM or BigWigs break bar and ends it with a vanilla boss line ([Wago](https://addons.wago.io/addons/brboss), [CurseForge](https://www.curseforge.com/wow/addons/brboss))
-- [FloorIsLava](https://github.com/masterred92/FloorIsLava) 1.0.2: a Details! board of who took the most avoidable damage ([Wago](https://addons.wago.io/addons/floorislava), [CurseForge](https://www.curseforge.com/wow/addons/floor-is-lava))
+## WoW: Forever — Class & Combat HUDs
 
-**EA SPORTS FC**
-- [FC Mod Helper](https://github.com/masterred92/fc-mod-helper): a one-click Windows app for offline Career Mode modders, with patch-safety checks, save backups and a youth academy tracker ([download](https://github.com/masterred92/fc-mod-helper/releases/latest))
+[Frost Mage Suite](https://github.com/masterred92/FrostMageSuite) combines all seven Frost helpers below, with a `/frost` panel to switch each box on or off. Each box pauses itself while its standalone addon is loaded.
 
-**Decompilation**
-- Contributor to the [Golden Sun decompilation](https://github.com/Coaltergeist/goldensun-decomp), with hundreds of matched functions merged upstream
-- [decomp-library](https://github.com/masterred92/decomp-library): my learning library on decompilation tools, techniques, game projects and study paths
-- [gba-decomp-toolkit](https://github.com/masterred92/gba-decomp-toolkit): a bring-your-own-ROM toolkit for setting up matching GBA decomp projects
-- [decomp-toolkit-scripts](https://github.com/masterred92/decomp-toolkit-scripts): setup and helper scripts for a decomp workstation
-- [decomp-practice](https://github.com/masterred92/decomp-practice): original C exercises for practising matching on x86, MIPS and PowerPC
+| Addon | Description | Links |
+| --- | --- | --- |
+| [Frost Mage Suite](https://github.com/masterred92/FrostMageSuite) | All seven Frost Mage helpers in one addon. | [CurseForge](https://www.curseforge.com/wow/addons/frost-mage-suite) · [Wago](https://addons.wago.io/addons/frost-mage-suite) |
+| [Hold the Weather](https://github.com/masterred92/HoldTheWeather) | Warns you when you're channelling Blizzard into your own Frost Nova. | [CurseForge](https://www.curseforge.com/wow/addons/hold-the-weather) · [Wago](https://addons.wago.io/addons/hold-the-weather) |
+| [Eight Second Argument](https://github.com/masterred92/EightSecondArgument) | Says whether to press Ice Lance or Fire Blast on their shared 8-second cooldown. | [CurseForge](https://www.curseforge.com/wow/addons/eight-second-argument) · [Wago](https://addons.wago.io/addons/eight-second-argument) |
+| [Cone of Plenty](https://github.com/masterred92/ConeOfPlenty) | Tracks Winter's Chill stacks so you know when to dump Cone of Cold. | [CurseForge](https://www.curseforge.com/wow/addons/cone-of-plenty) · [Wago](https://addons.wago.io/addons/cone-of-plenty) |
+| [Barrier Reef](https://github.com/masterred92/BarrierReef) | Shows whether Ice Barrier's Frost damage bonuses are up. | [CurseForge](https://www.curseforge.com/wow/addons/barrier-reef) · [Wago](https://addons.wago.io/addons/barrier-reef) |
+| [Shatter Happens](https://github.com/masterred92/ShatterHappens) | A Fingers of Frost and Ice Lance ledger for each fight and session. | [CurseForge](https://www.curseforge.com/wow/addons/shatter-happens) · [Wago](https://addons.wago.io/addons/shatter-happens) |
+| [Water Bill](https://github.com/masterred92/WaterBill) | Tells you whether your conjured water and food should go on the auction house or be used. | [CurseForge](https://www.curseforge.com/wow/addons/water-bill) · [Wago](https://addons.wago.io/addons/water-bill) |
+| [Scroll Call](https://github.com/masterred92/ScrollCall) | A gold log for Comprehension, counting unread scrolls and what each read turned into. | [CurseForge](https://www.curseforge.com/wow/addons/scroll-call) · [Wago](https://addons.wago.io/addons/scroll-call) |
+| [Gale Count](https://github.com/masterred92/GaleCount) | Windfury tracker for Shamans: live proc counts, then damage, share, and average per proc. | [CurseForge](https://www.curseforge.com/wow/addons/gale-count) · [Wago](https://addons.wago.io/addons/galecount) |
+| [Shadow Count](https://github.com/masterred92/ShadowCount) | Nightfall counter for Warlocks: Shadow Trance flashes, instant Shadow Bolt counts, then damage, share, and average. | [CurseForge](https://www.curseforge.com/wow/addons/shadow-count) · [Wago](https://addons.wago.io/addons/shadowcount) |
+| [Reckoning Checkoning](https://github.com/masterred92/ReckoningCheckoning) | Reckoning and Seal of Command counter for Paladins: live charges and procs, then damage, share, and average. | [CurseForge](https://www.curseforge.com/wow/addons/reckoning-checkoning) · [Wago](https://addons.wago.io/addons/reckoningcheckoning) |
+| [Beast Mode](https://github.com/masterred92/BeastMode) | Pet and Hawk box for Hunters: happiness and ability flashes live, then the you / pet / Hawk damage split. | [CurseForge](https://www.curseforge.com/wow/addons/beast-mode) · [Wago](https://addons.wago.io/addons/beastmode) |
 
-**Other**
-- [policy-simulator](https://github.com/masterred92/policy-simulator): an interactive US and Australia policy simulator with sourced data ([try it](https://us-plus-australia-policy-simulator-bm2t.pages.grok.bot/))
+## WoW: Forever — Raid, Dungeon & Social
 
-**Currently exploring:** GBA decomps, ARM assembly, AI-assisted tooling, and game addons and mods.
+| Addon | Description | Links |
+| --- | --- | --- |
+| [Questie: Job's Done](https://github.com/masterred92/QuestieJobsDone) | The peon's "Job's done!" when Questie sees a quest's objectives finished. | [CurseForge](https://www.curseforge.com/wow/addons/questie-jobs-done) · [Wago](https://addons.wago.io/addons/questie-jobs-done) |
+| [Parchment Bars](https://github.com/masterred92/ParchmentBars) | An Old Parchment bar style for BigWigs, made from client textures only. | [CurseForge](https://www.curseforge.com/wow/addons/parchment-bars) · [Wago](https://addons.wago.io/addons/parchment-bars) |
+| [Grunt Count](https://github.com/masterred92/GruntCount) | Gag countdown voices for BigWigs: murlocs, kobolds, and peons count you in. | [CurseForge](https://www.curseforge.com/wow/addons/grunt-count) · [Wago](https://addons.wago.io/addons/grunt-count) |
+| [Wipe & Win Lines](https://github.com/masterred92/WipeAndWin) | Vanilla victory and wipe lines for DBM's sound lists and LibSharedMedia. | [CurseForge](https://www.curseforge.com/projects/1835482) · [Wago](https://addons.wago.io/addons/wipe-and-win) |
+| [BRBoss](https://github.com/masterred92/BRBoss) | When a raid break timer ends, a vanilla boss calls you back. Works with DBM, BigWigs, and the Blizzard countdown. | [CurseForge](https://www.curseforge.com/wow/addons/brboss) · [Wago](https://addons.wago.io/addons/brboss) |
+| [Floor is Lava](https://github.com/masterred92/FloorIsLava) | A Details! board of who took the most avoidable damage, with a season tally. | [CurseForge](https://www.curseforge.com/wow/addons/floor-is-lava) · [Wago](https://addons.wago.io/addons/floorislava) |
+
+## Decompilation & Tooling
+
+| Project | Description |
+| --- | --- |
+| [decomp-library](https://github.com/masterred92/decomp-library) | A learning library on decompilation tools, techniques, game projects, and study paths. |
+| [gba-decomp-toolkit](https://github.com/masterred92/gba-decomp-toolkit) | A toolkit for scaffolding matching GBA decompilation projects. |
+| [decomp-toolkit-scripts](https://github.com/masterred92/decomp-toolkit-scripts) | Setup and helper scripts for a decompilation workstation: Ghidra headless, cross-compilers, and match checking. |
+| [decomp-practice](https://github.com/masterred92/decomp-practice) | Original C exercises for practising matching decompilation on x86, MIPS, and PowerPC. |
+| [Golden Sun decompilation](https://github.com/Coaltergeist/goldensun-decomp) | Contributor, with matched functions merged upstream. |
+
+## Other projects
+
+| Project | Description |
+| --- | --- |
+| [FC Mod Helper](https://github.com/masterred92/fc-mod-helper) | Patch-safety checks, save backups, and a youth academy tracker for EA SPORTS FC Career Mode modding on PC (offline). No game files included. ([Releases](https://github.com/masterred92/fc-mod-helper/releases/latest)) |
+| [policy-simulator](https://github.com/masterred92/policy-simulator) | An interactive US and Australia policy simulator with sourced data. |
+
+---
+
+Lua · WoW UI API · C / ARM Thumb · Python / Shell
